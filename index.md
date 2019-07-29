@@ -194,3 +194,6 @@ Lire aussi [Why large swathes of countries are censored on Google Maps](https://
 
 Comme le montre cet article, l'efficacité de ce fichier ZIPVA reste à démontrer.
 Non content de dévoiler "officiellement" la localisation des sites sensibles, il reste impuissant, 2 ans après sa création, à cacher ces zones aux yeux curieux sur les plateformes d'imagerie en ligne.
+
+
+Pour me contacter: marcel.maroilles@protonmail.com
